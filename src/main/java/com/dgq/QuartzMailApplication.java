@@ -12,6 +12,7 @@ public class QuartzMailApplication {
 	
 	public static void main1(String[] args) {
 		System.out.print("---------");
+		System.out.print("---------");
 		
 	}
 }
