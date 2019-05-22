@@ -9,4 +9,9 @@ public class QuartzMailApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(QuartzMailApplication.class, args);
 	}
+	
+	public static void main1(String[] args) {
+		System.out.print("---------");
+		
+	}
 }
