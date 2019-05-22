@@ -1,0 +1,19 @@
+spring:
+  mail:
+    #host: smtp.qq.com
+    host: smtp.exmail.qq.com
+    username: denggqa@litsoft.com.cn
+    password: Dgq12111217
+    properties:
+      mail:
+        smtp:
+          auth: true
+          ssl.enable: true
+          socketFactory.class: javax.net.ssl.SSLSocketFactory
+          starttls.enable: true
+          socketFactory.port: 465　
+          port: 465
+logging:
+  file: /home/log/quartMail.log
+  level:
+    root: INFO
