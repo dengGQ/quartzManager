@@ -14,5 +14,7 @@ public class QuartzMailApplication {
 		System.out.print("---------");
 		System.out.print("---------dgq");
 		System.out.print("-----------new Branch");
+		System.out.print("-----------dev commit");
+		System.out.print("-----------dev commit 1");
 	}
 }
